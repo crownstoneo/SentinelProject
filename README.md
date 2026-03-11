@@ -46,7 +46,8 @@ Create detection rules and investigate security incidents using Microsoft Sentin
 <br />
 <br />
 <b>Incident Dashboard:</b> 
-<br /><img width="857" height="459" alt="Screenshot 2025-12-24 031608" src="https://github.com/user-attachments/assets/70bf4c2b-c1ec-4b4e-b1e0-811a84fa7b8c" />
+<br />
+<img width="857" height="459" alt="Screenshot 2025-12-24 031608" src="https://github.com/user-attachments/assets/70bf4c2b-c1ec-4b4e-b1e0-811a84fa7b8c" />
 
 <h2>Findings</h2>
 Manual log review is inefficient. Automated detection rules reduce response time significantly.
