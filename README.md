@@ -1,4 +1,4 @@
-<h1>3️⃣ Sentinel Project: Microsoft Sentinel Detection Engineering & Incident Response</h1>
+<h1>Sentinel Project: Microsoft Sentinel Detection Engineering & Incident Response</h1>
 
 <h2>Objective</h2>
 Create detection rules and investigate security incidents using Microsoft Sentinel.
